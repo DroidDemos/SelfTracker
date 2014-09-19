@@ -1,7 +1,8 @@
 Self Tracker
 =======
 
-track your life
-Developing in progress
-1. track your phone usage everyday
-2. track your locations
+##track your life
+`Developing in progress`
+
++ track your phone usage everyday
++ track your locations
